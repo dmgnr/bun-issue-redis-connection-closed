@@ -1,0 +1,6 @@
+{
+  "yaml.disableSchemaDetection": [],
+  "yaml.schemas": {
+    "https://raw.githubusercontent.com/compose-spec/compose-go/master/schema/compose-spec.json": "file:///home/dmgnr/Scripts/bun-issue-redis-connection-closed/redis-compose.yml"
+  }
+}
